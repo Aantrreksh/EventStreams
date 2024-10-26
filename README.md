@@ -11,3 +11,6 @@ Please assign PRs to Karen/Andrea.
     > `git checkout source && git checkout -b <your branch>`
 2. when your content is ready, raise a PR against the **source** branch
 3. when management and Karen/Andrea are happy for the draft contents to be published, ask Karen/Andrea to merge the automatcially created source->publish PR. An automated build takes care of the rest which Karen and Andrea monitors.
+
+
+## Created And Designed By - Aantrreksh Singh
